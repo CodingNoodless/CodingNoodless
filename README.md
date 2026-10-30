@@ -14,7 +14,7 @@ I am a student founder and researcher specializing in autonomous systems, machin
 
 - **Building:** **J.A.R.V.I.S.** – A locally hosted LLM with a modular tool system designed to learn new tasks and program itself.
 - **Researching:** Autonomous drone systems for environmental monitoring at ASDRP, focusing on sensor integration and data analysis.
-- **Working:** Founder & CEO at Fremont School of Coding (taught 600+ students!) and former Coding Instructor at CodeNinjas, where I taught hands-on coding using LEGO Robotics, Unity, and Minecraft.
+- **Working:** Founder & CEO at Fremont School of Coding (taught 600+ students!) and Coding Instructor at CodeNinjas, where I teach hands-on coding using LEGO Robotics, Unity, and Minecraft.
 
 ### 🛠️ Hardware & Software
 
