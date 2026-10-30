@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Replace 'banner.jpg' with the actual filename of the image you upload -->
-  <img src="https://a.storyblok.com/f/178900/960x540/4b9a9abb03/my-hero-academia-fs-stillpv.jpg/m/filters:quality(95)format(webp)" alt="Rohit Pulle - AI & Robotics" width="100%" />
+  <img src="https://cdn.pfps.gg/banners/4329-deku.png" alt="Rohit Pulle - AI & Robotics" width="100%" />
 
   <h1>Rohit Pulle</h1>
   <p><b>Robotics & AI | Mechanical, Electrical, and Computer Engineering</b></p>
@@ -35,13 +35,13 @@ I am a student founder and researcher specializing in autonomous systems, machin
 <h3 align="center">🌐 Connect With Me</h3>
 
 <p align="center">
-  <a href="https://x.com/codingnoodles2" target="_blank">
-    <img src="https://cdn.simpleicons.org/x/white" alt="X" height="30" width="40" />
+  <a href="https://x.com/codingnoodles2">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
   </a>
-  <a href="https://www.instagram.com/rohit.pullee/" target="_blank">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" height="30" width="40" />
+  <a href="https://instagram.com/rohit.pullee">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="https://www.linkedin.com/in/rohitpulle/" target="_blank">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" alt="LinkedIn" height="30" width="40" />
+  <a href="https://linkedin.com/in/rohitpulle">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
